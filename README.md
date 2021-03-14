@@ -9,6 +9,6 @@
 
 - 💬  Ask me about React, React Native, Vue, Laravel and Laravel Nova
 
-- 📫  How to reach me: tikken23@gmail.com tg://t.me@datikken
+- 📫  How to reach me: tikken23@gmail.com  <a href="tg://t.me@datikken">Datikken</a>
 
 - ⚡   Fun fact: Creative creator
