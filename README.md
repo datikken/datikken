@@ -5,7 +5,7 @@
 
 - 🔭  I’m currently working on <a target="blank" href="https://jsux.fun">jsux.fun</a>
 - 🌱  I’m currently learning Python
-- 💬  Ask me about React, or Laravel
+- 💬  Ask me about React or Laravel, Laravel Nova
 - 📫  How to reach me: tikken23@gmail.com
 - ⚡   Fun fact: Creative creator
 
