@@ -3,10 +3,10 @@
 
 <p align="center"><a href="https://github.com/datikken/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datikken" alt="datikken" /></a> </p>
 
-- 🔭  I’m currently working on https://jsux.fun/
+- 🔭  I’m currently working on <a href="https://jsux.fun">jsux.fun</a>
 - 🌱  I’m currently learning Python
 - 💬  Ask me about React, or Laravel
-- 📫  How to reach me: tikken23@gmail.com t.me@datikken
+- 📫  How to reach me: tikken23@gmail.com <a href="t.me@datikken">datikken</a>
 - ⚡   Fun fact: Creative creator
 
 
