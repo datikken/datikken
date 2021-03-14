@@ -6,7 +6,7 @@
 - 🔭  I’m currently working on <a target="blank" href="https://jsux.fun">jsux.fun</a>
 - 🌱  I’m currently learning Python
 - 💬  Ask me about React, or Laravel
-- 📫  How to reach me: tikken23@gmail.com <a href="tg://resolve?domain=datikken">Telegram me</a>
+- 📫  How to reach me: tikken23@gmail.com <a href="tg://resolve?domain=datikken">Telegram</a>
 - ⚡   Fun fact: Creative creator
 
 
