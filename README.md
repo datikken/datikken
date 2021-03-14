@@ -1,3 +1,8 @@
+<style>
+  h1 {
+    color: red;
+  }
+  </style>
 <h1>Hi there 👋  I'm datikken</h1>
 
 - 🔭  I’m currently working on https://jsux.fun/
