@@ -7,7 +7,7 @@
 
 - 🌱  I’m currently learning Python
 
-- 💬  Ask me about React or Laravel and Laravel Nova
+- 💬  Ask me about React, React Native, Vue, Laravel and Laravel Nova
 
 - 📫  How to reach me: tikken23@gmail.com
 
