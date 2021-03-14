@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=datikken)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=datikken)](https://github.com/datikken/github-profile-trophy)
