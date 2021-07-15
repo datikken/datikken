@@ -3,7 +3,7 @@
 
 <p align="center"><a href="https://github.com/datikken/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datikken" alt="datikken" /></a></p>
 
-🌱 &nbsp; I’m currently learning Python
+🌱 &nbsp; I’m currently learning С++
 
 💬 &nbsp; Ask me about React, React Native, Vue, Laravel and Laravel Nova
 
