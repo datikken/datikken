@@ -3,9 +3,9 @@
 
 <p align="center"><a href="https://github.com/datikken/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datikken" alt="datikken" /></a></p>
 
-🌱 &nbsp; I’m currently learning Go
+🌱 &nbsp; I’m currently learning Python
 
-💬 &nbsp; Ask me about React, React Native, Vue, Laravel and Laravel Nova
+💬 &nbsp; Ask me about React Native, React, Vue, Laravel, Symfony, Django
 
 📫&nbsp; How to reach me: tikken23@gmail.com
 
