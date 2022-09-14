@@ -5,7 +5,7 @@
 
 🌱 &nbsp; I’m currently learning Golang
 
-💬 &nbsp; Ask me about React Native, React, Vue, Laravel, Symfony, Django
+💬 &nbsp; Ask me about React Native, React, Vue, Laravel, Laravel Nova, Symfony, Drupal
 
 📫&nbsp; How to reach me: tikken23@gmail.com
 
