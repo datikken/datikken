@@ -8,5 +8,3 @@
 💬 &nbsp; Ask me about React Native, React, Vue, Laravel, Laravel Nova, Symfony, Drupal
 
 📫&nbsp; How to reach me: tikken23@gmail.com
-
-⚡&nbsp; Fun fact: Creative creator
